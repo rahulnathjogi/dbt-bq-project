@@ -11,7 +11,7 @@
 
 with source_data as (
 
-    select 1000 as id
+    select 500 as id
     union all
     select null as id
 
